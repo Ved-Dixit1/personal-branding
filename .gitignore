@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary & Output files
+outputs/*.mp4
+outputs/*.png
+outputs/*.mp3
+outputs/*.wav
+*.tmp
+*.log
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+.env
